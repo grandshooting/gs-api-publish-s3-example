@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/grandshooting/gs-api-publish-s3-example#readme",
   "dependencies": {
-    "aws-sdk": "^2.691.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.7.2",
     "lodash": "^4.17.21",
     "superagent": "^5.2.2"
